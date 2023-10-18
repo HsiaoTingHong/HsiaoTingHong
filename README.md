@@ -1,4 +1,12 @@
-### Hi there 👋
+# Welcome 
+#### Hi !  I'm Hsiao Ting Hong 👋
+<br/>
+
+Find me here ✨
+* [github](https://github.com/HsiaoTingHong)
+* [email](hsiaoting1003@gmail.com) 
+<br/>
+
 
 <!--
 **HsiaoTingHong/HsiaoTingHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
