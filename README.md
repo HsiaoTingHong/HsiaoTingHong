@@ -1,5 +1,5 @@
 # Welcome 
-### Hi !  I'm Hsiao Ting Hong 👋
+### Hello !  I'm Ting 👋
 <br/>
 
 Find me here ✨
