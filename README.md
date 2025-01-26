@@ -1,5 +1,5 @@
 # Welcome 
-### Hello !  I'm Ting 👋
+### Hello !  I'm Ting
 <br/>
 
 Find me here ✨
